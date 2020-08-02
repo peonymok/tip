@@ -5,7 +5,7 @@
 
 Submitted by: **Peony Mok**
 
-Time spent: **11** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -23,19 +23,21 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+   -Creating a custom tip field where users can input a tip percentage of choice
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/Ah8Tm9FIjC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](http://www.recordit.co).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 -Difficulty adjusting width and height of the Tip and Total labels
+-Difficulty implementing a Reset button as well as a Custom Tip Field
 
 ## License
 
